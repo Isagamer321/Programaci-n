@@ -1,0 +1,14 @@
+código de mi programa personal Android studio 
+área de producto:
+
+Modelo de producto Product.kt
+kotlin
+Copiar
+Editar
+data class Product(
+    val id: String = "",
+    val name: String = "",
+    val description: String = "",
+    val price: Double = 0.0,
+    val imageUrl: String = ""
+)
